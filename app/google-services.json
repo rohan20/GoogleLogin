@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985918955920",
+    "project_id": "cogent-anvil-134412"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985918955920:android:e1df045c584e3429",
+        "android_client_info": {
+          "package_name": "com.coppermobile.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985918955920-fq405mgrkdmje9gt86461sab73j420oh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coppermobile.googlelogin",
+            "certificate_hash": "87327F10BB0E4F06311F163B941F860C4BC91CD5"
+          }
+        },
+        {
+          "client_id": "985918955920-hvnpncp2e51o9ig3hmi6ol7ru1r82vsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRm3FkCmMjQ1nZO4xeoTJUzS9sL0Hev90"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
